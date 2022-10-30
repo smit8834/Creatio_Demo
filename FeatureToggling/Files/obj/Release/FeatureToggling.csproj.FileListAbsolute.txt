@@ -1,0 +1,16 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\Bin\FeatureToggling.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\Bin\FeatureToggling.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.csprojAssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.pdb
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\Bin\FeatureToggling.dll
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\Bin\FeatureToggling.pdb
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.csprojAssemblyReference.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.AssemblyInfoInputs.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.AssemblyInfo.cs
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.csproj.CoreCompileInputs.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.dll
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.pdb

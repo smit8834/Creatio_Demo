@@ -1,0 +1,16 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\Bin\XSSProtection.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\Bin\XSSProtection.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.csprojAssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.pdb
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\Bin\XSSProtection.dll
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\Bin\XSSProtection.pdb
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.csprojAssemblyReference.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.AssemblyInfoInputs.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.AssemblyInfo.cs
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.csproj.CoreCompileInputs.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.dll
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\XSSProtection\Files\obj\Release\XSSProtection.pdb

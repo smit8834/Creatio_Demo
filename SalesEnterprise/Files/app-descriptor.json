@@ -1,0 +1,239 @@
+{
+  "Name": "Sales Enterprise",
+  "Code": "SalesEnterprise",
+  "Description": "Automate direct and partner sales cycle",
+  "Maintainer": "Terrasoft",
+  "Icon": "PHN2ZyBpZD0iQ29tcG9uZW50XzM5OV8zIiBkYXRhLW5hbWU9IkNvbXBvbmVudCAzOTkg4oCTIDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMzggMzgiPgogIDxwYXRoIGlkPSJQYXRoXzY5IiBkYXRhLW5hbWU9IlBhdGggNjkiIGQ9Ik05NDAuNS0xMDdoMTMuOWwyLjEtNUg5MzguMloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC05MjggMTMxKSIgZmlsbD0iI2ZmZiIvPgogIDxwYXRoIGlkPSJQYXRoXzcwIiBkYXRhLW5hbWU9IlBhdGggNzAiIGQ9Ik05NDMuMi0xMDFIOTUybDEuOC00SDk0MS4zWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTkyOCAxMzEpIiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggaWQ9IlBhdGhfNzEiIGRhdGEtbmFtZT0iUGF0aCA3MSIgZD0iTTk2MC0xMjFIOTM0LjJsMy4yLDdoMTkuN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC05MjggMTMxKSIgZmlsbD0iI2ZmZiIvPgogIDxyZWN0IGlkPSJSZWN0YW5nbGVfMjMiIGRhdGEtbmFtZT0iUmVjdGFuZ2xlIDIzIiB3aWR0aD0iMzgiIGhlaWdodD0iMzgiIGZpbGw9Im5vbmUiLz4KPC9zdmc+Cg==",
+  "IconName": "icon_8.svg",
+  "Color": "#008537",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "Packages": [
+    {
+      "UId": "16f3a449-34d6-461f-aa52-053fcf308201",
+      "Name": "Base_Obsolete"
+    },
+    {
+      "UId": "92fdd5fc-50d9-43e1-b3ab-8bcbc1d7b467",
+      "Name": "BPMS_ENU"
+    },
+    {
+      "UId": "0e3a338b-4114-4088-87a2-6333f4528399",
+      "Name": "ChangeAdminRightsUserTask"
+    },
+    {
+      "UId": "baeedcdf-86dd-4673-a594-8d5648d5aace",
+      "Name": "ContractInInvoice"
+    },
+    {
+      "UId": "ea86d7c2-a1c2-475a-af53-28f8d7e1e7a8",
+      "Name": "ContractInOrder"
+    },
+    {
+      "UId": "29c7b5a2-1b24-4486-9276-6f30e0b427b5",
+      "Name": "CoreContracts"
+    },
+    {
+      "UId": "ac31baee-da21-4a6a-8206-cc9cad5b9385",
+      "Name": "CoreForecast"
+    },
+    {
+      "UId": "34a08715-d94b-478c-887e-dbb951baceeb",
+      "Name": "CoreLead"
+    },
+    {
+      "UId": "72dfd004-1fad-41fa-ad05-3cbc97f2958e",
+      "Name": "CoreLeadOpportunity"
+    },
+    {
+      "UId": "f0a4df72-c82f-425f-8080-82c120139634",
+      "Name": "Document"
+    },
+    {
+      "UId": "d711d77f-6366-44c6-aff5-492d2f8021ba",
+      "Name": "DocumentInContract"
+    },
+    {
+      "UId": "d732f944-06eb-4afc-b608-aef15791f70c",
+      "Name": "DocumentInInvoice"
+    },
+    {
+      "UId": "9494dcf4-12a2-4999-9d31-087106a5399e",
+      "Name": "DocumentInOpportunity"
+    },
+    {
+      "UId": "485dbdb7-7852-4259-8f94-04ba05c2f3f1",
+      "Name": "DocumentInOrder"
+    },
+    {
+      "UId": "bf9afc07-660b-48ce-8666-8ff8365be907",
+      "Name": "DocumentInProject"
+    },
+    {
+      "UId": "1b8e5379-858b-4e6e-bd68-b0d1e329c890",
+      "Name": "EntityCollectionUserTasks"
+    },
+    {
+      "UId": "e7a2c20a-9591-484e-bf77-5953f2dc592e",
+      "Name": "Invoice"
+    },
+    {
+      "UId": "328093b7-9f9d-4fd1-9027-759f15040c07",
+      "Name": "InvoiceInProject"
+    },
+    {
+      "UId": "b3d1f533-9b59-4503-9686-227e48f1030e",
+      "Name": "InvoiceMobile"
+    },
+    {
+      "UId": "689fd58d-357b-4882-a93c-b72f0e56738d",
+      "Name": "Lead"
+    },
+    {
+      "UId": "c53df329-0dce-9c48-0e67-6a557846ba3d",
+      "Name": "LeadManagement"
+    },
+    {
+      "UId": "e8689230-27b1-4f48-a395-adb81cbc07b3",
+      "Name": "MLLeadScoring"
+    },
+    {
+      "UId": "e9ff50e9-84e3-488b-aac4-68e7b61f9416",
+      "Name": "MLOpportunityScoring"
+    },
+    {
+      "UId": "3e884542-e958-4f64-b6de-a1b587b3b7e5",
+      "Name": "Opportunity"
+    },
+    {
+      "UId": "918abdf5-9fbf-4cdb-ba2d-beb7a7c3c1af",
+      "Name": "OpportunityInvoice"
+    },
+    {
+      "UId": "75b64d44-f646-4025-b2dc-16a7526ff5fd",
+      "Name": "OpportunityManagement"
+    },
+    {
+      "UId": "ef11e995-ba92-40e9-9077-1a6fee8d4c35",
+      "Name": "Order"
+    },
+    {
+      "UId": "b8e3670d-40ce-4674-8aa5-3d4805a5932d",
+      "Name": "OrderInSales"
+    },
+    {
+      "UId": "25b0287a-c3a8-4066-b6ef-e5dad7c3be5a",
+      "Name": "OrderInvoice"
+    },
+    {
+      "UId": "23109609-1650-4a4b-aecb-d0974c538074",
+      "Name": "OrderLead"
+    },
+    {
+      "UId": "b2efab6b-0c3b-4089-ac40-7b9f9fa87e59",
+      "Name": "Passport"
+    },
+    {
+      "UId": "62e2670f-4c32-43aa-bc37-36955a5d8127",
+      "Name": "PRMBase"
+    },
+    {
+      "UId": "be841e0c-cb39-4f7c-96f7-2f1b50d8b5ee",
+      "Name": "PRMInvoice"
+    },
+    {
+      "UId": "3979ff30-e540-4bb1-ad27-b87d378563be",
+      "Name": "PRMOrder"
+    },
+    {
+      "UId": "9ff51efe-8036-45bb-968f-fb10ccef9c10",
+      "Name": "PRMPortal"
+    },
+    {
+      "UId": "6788af15-3256-4d5f-aa61-b903e0df4f20",
+      "Name": "ProcessUserContext"
+    },
+    {
+      "UId": "4a37386b-d976-41f8-a469-63bd93d24027",
+      "Name": "ProductBase"
+    },
+    {
+      "UId": "3d3ced06-8d6d-4076-a213-68678ade00cd",
+      "Name": "ProductCatalogue"
+    },
+    {
+      "UId": "1da54b45-dc3f-448e-9444-a8c700733642",
+      "Name": "ProductCatalogueInInvoice"
+    },
+    {
+      "UId": "34f1f5ff-85fa-4f33-802a-1befad411acd",
+      "Name": "ProductCatalogueInOrder"
+    },
+    {
+      "UId": "4204dd64-db74-42cc-896b-6f690204c4e6",
+      "Name": "ProductSpecification"
+    },
+    {
+      "UId": "ca17ff09-8a8b-4af9-8a2a-ff4c0983ba30",
+      "Name": "Project"
+    },
+    {
+      "UId": "55713117-1fcf-61da-18ae-24b15a24844b",
+      "Name": "RecommendedProduct"
+    },
+    {
+      "UId": "5b40ec36-fc30-4a74-9b55-a0748188841e",
+      "Name": "SalesCommerceData"
+    },
+    {
+      "UId": "261b9fdc-b686-40b2-84ce-875d9130622a",
+      "Name": "SalesCommon"
+    },
+    {
+      "UId": "7caa41bd-a942-40b1-99dc-7a30f60895e4",
+      "Name": "SalesContracts"
+    },
+    {
+      "UId": "f6bf43ee-73e9-4960-b62e-25a9cf1673ad",
+      "Name": "SalesDocument"
+    },
+    {
+      "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+      "Name": "SalesEnterprise"
+    },
+    {
+      "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+      "Name": "SalesEnterpriseSoftkey_ENU"
+    },
+    {
+      "UId": "0ece3a34-413f-415b-919b-7b29bb31701f",
+      "Name": "SalesEnterpriseSoftkey_Obsolete"
+    },
+    {
+      "UId": "ff9d3ada-7d78-4b56-b720-6ecb251a1dd4",
+      "Name": "SalesTeamData"
+    },
+    {
+      "UId": "26fdbab7-6839-4009-9ab8-7f54a68f6924",
+      "Name": "SendEmailUserTask"
+    },
+    {
+      "UId": "9d3e9a5a-4f41-4914-9d13-234a68da2aae",
+      "Name": "Specification"
+    },
+    {
+      "UId": "68ee82f8-280b-40ce-951d-6e93d2945a8f",
+      "Name": "WebLeadForm"
+    },
+    {
+      "UId": "dc67ca89-0f24-44fc-8a0d-53169b1dec01",
+      "Name": "WebOrderForm"
+    },
+    {
+      "UId": "c41abb91-0ae6-49ac-9511-af5671f4ed69",
+      "Name": "WebServiceUserTask"
+    }
+  ]
+}

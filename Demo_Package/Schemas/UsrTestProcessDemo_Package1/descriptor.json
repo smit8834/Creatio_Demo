@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "16a84f16-8a45-4534-a731-6aeef7777e8a",
+    "Name": "UsrTestProcessDemo_Package1",
+    "ModifiedOnUtc": "\/Date(1667116018000)\/",
+    "Parent": {
+      "UId": "ce78c05e-dddd-4fe7-8b21-dd913c90ae99",
+      "Name": "UsrTestProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Business process 1",
+    "DependsOn": []
+  }
+}

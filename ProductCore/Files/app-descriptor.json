@@ -1,0 +1,355 @@
+{
+  "Name": "Studio Enterprise",
+  "Code": "StudioEnterprise",
+  "Description": "Collaborate on processes, enhance application development using low-code technology",
+  "Maintainer": "Terrasoft",
+  "Icon": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzOCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDM4IDE2Ij4KICA8ZyBpZD0ic3R1ZGlvLWxvZ28tcGFnZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUyLjg1MykiPgogICAgPHBhdGggaWQ9IlBhdGhfMTE2MjkiIGRhdGEtbmFtZT0iUGF0aCAxMTYyOSIgZD0iTTE1NS44MywxMS40MTksMTM2LjA2NSwxNmw1Ljg4Mi00LjU4MUwxMTcuODMsMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02NC45NzcpIiBmaWxsPSIjZmZmIi8+CiAgICA8cGF0aCBpZD0iUGF0aF8xMTYzMCIgZGF0YS1uYW1lPSJQYXRoIDExNjMwIiBkPSJNMTU1LjgzLDExLjMzSDE0MS45NDdMMTE3LjgzLDBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjQuOTc3KSIgZmlsbD0iI2ZmZiIvPgogIDwvZz4KPC9zdmc+Cg==",
+  "IconName": "icon_151.svg",
+  "Color": "#D32F2F",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "Packages": [
+    {
+      "UId": "ae8519c2-2aac-4a00-aa61-b0ffaac99ea3",
+      "Name": "ActionsDashboard"
+    },
+    {
+      "UId": "02abeaad-7dcc-4f15-86c9-cd6090362e82",
+      "Name": "AnalyticsDashboard"
+    },
+    {
+      "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+      "Name": "Base"
+    },
+    {
+      "UId": "b8bc60f4-5aef-4760-bd1b-57d7cbc48143",
+      "Name": "Base_ENU"
+    },
+    {
+      "UId": "516f7ad2-afe0-4d38-bdc6-9e3e15a172ef",
+      "Name": "BaseProcessDesigner"
+    },
+    {
+      "UId": "062de047-62f1-4580-85e2-0417d450a3a8",
+      "Name": "BaseScoring"
+    },
+    {
+      "UId": "864d1545-a641-46c3-b866-e57bd6d39579",
+      "Name": "BpmonlineCloudIntegration"
+    },
+    {
+      "UId": "90cfe1be-635b-4ea1-8558-c0bb5ba4ee86",
+      "Name": "Calendar"
+    },
+    {
+      "UId": "6688415a-fadb-494e-a018-5618e8b6926e",
+      "Name": "CalendarBase"
+    },
+    {
+      "UId": "4e9b7aff-71f7-46eb-bad9-60cfdc0a54c2",
+      "Name": "CallMessagePublisher"
+    },
+    {
+      "UId": "76c2f1ba-2917-4eea-8bd0-e2cfd8cc3dde",
+      "Name": "Completeness"
+    },
+    {
+      "UId": "f7fa275a-2b5a-43d8-89cf-b0063b3a7ee9",
+      "Name": "ContentBuilder"
+    },
+    {
+      "UId": "5048abef-9ed6-4a50-97bd-e91dea4ac632",
+      "Name": "CTIBase"
+    },
+    {
+      "UId": "22c5e4a0-49e8-4e6b-97e8-c22ed249b85a",
+      "Name": "CTIVirtualProvider"
+    },
+    {
+      "UId": "7252c5e2-120b-47c9-bcf7-260367039743",
+      "Name": "DcmDesigner"
+    },
+    {
+      "UId": "b1eb54a2-9569-45de-81cb-a24654c09264",
+      "Name": "DcmLibrary"
+    },
+    {
+      "UId": "b5967e5d-641c-4d1f-ad1d-a02f69fcc776",
+      "Name": "Deduplication"
+    },
+    {
+      "UId": "c2518826-60a9-40d4-bd14-6add9d35d320",
+      "Name": "DesignerTools"
+    },
+    {
+      "UId": "08c80cf3-52f3-43fa-b450-d1815fb07619",
+      "Name": "EmailMessagePublisher"
+    },
+    {
+      "UId": "468413c6-da9a-4bae-a3e9-31456fea166d",
+      "Name": "EmailMining"
+    },
+    {
+      "UId": "cdb56ffb-07c3-4603-9014-7c383fad59c2",
+      "Name": "EmailsSearch"
+    },
+    {
+      "UId": "8bbee491-7461-4bb3-86e3-e2dc29ae02df",
+      "Name": "EmailTemplate"
+    },
+    {
+      "UId": "926d8678-32f2-4b39-bcd1-fcc5382accbb",
+      "Name": "Enrichment"
+    },
+    {
+      "UId": "90ef497e-6e18-440d-b80e-d28f2f133509",
+      "Name": "ESN"
+    },
+    {
+      "UId": "b8c22230-2173-426f-959e-be736709a63f",
+      "Name": "Exchange"
+    },
+    {
+      "UId": "9dcadb21-84b9-478a-b8f5-05f1208e874a",
+      "Name": "ExchangeListener"
+    },
+    {
+      "UId": "9349cc70-f6f3-4751-8414-c10a1e5ba62a",
+      "Name": "ExternalAccess"
+    },
+    {
+      "UId": "b3453ab1-aec4-40a6-87ef-ffe4ef3ae4ee",
+      "Name": "FacebookIntegration"
+    },
+    {
+      "UId": "5932ac85-0d31-43c8-aeef-8b7dc5b56f60",
+      "Name": "FileImport"
+    },
+    {
+      "UId": "09869c10-1e01-f34c-e963-d3f5290feef6",
+      "Name": "FolderTree"
+    },
+    {
+      "UId": "ae73ba70-bd5e-4c4b-9977-df0e3e782102",
+      "Name": "GlobalSearch"
+    },
+    {
+      "UId": "0fbe5e70-0ba1-4c52-b35d-ca1c4a3acde7",
+      "Name": "GoogleTagManagerMeasurements"
+    },
+    {
+      "UId": "7f8469ff-cb9b-40f6-a5f5-6aa3ddded07a",
+      "Name": "HomePage"
+    },
+    {
+      "UId": "5287f356-5147-466d-af37-d408f89e5466",
+      "Name": "IntegrationV2"
+    },
+    {
+      "UId": "eb74c841-b4d1-4bf3-a489-300c0a0f7133",
+      "Name": "KnowledgeBase"
+    },
+    {
+      "UId": "bb1e143e-f3ee-4316-9450-851ddd02d999",
+      "Name": "LDAP"
+    },
+    {
+      "UId": "32986af5-84d9-4842-854e-9e8187522253",
+      "Name": "LinkPreview"
+    },
+    {
+      "UId": "99e69b3f-057b-4163-9247-fdd98287561f",
+      "Name": "Managers"
+    },
+    {
+      "UId": "19ffbb3e-f1b4-4636-999c-1e2c57d86eb6",
+      "Name": "Message"
+    },
+    {
+      "UId": "d6d45b89-09e8-468a-ae9d-3db6774b82a2",
+      "Name": "MessagePublisher"
+    },
+    {
+      "UId": "da38393b-cb46-4fa6-92b9-e4358bcf9f48",
+      "Name": "MkpNotifications"
+    },
+    {
+      "UId": "003be62f-2ffc-4b4f-a2a7-60f101277377",
+      "Name": "ML"
+    },
+    {
+      "UId": "e4d60e92-f11e-472c-98fc-0651d5891aba",
+      "Name": "MLangContent"
+    },
+    {
+      "UId": "02947595-4670-48e3-80ea-f278e3c9391c",
+      "Name": "MLBase"
+    },
+    {
+      "UId": "5496275d-2f56-4810-b46b-7098f10815d5",
+      "Name": "MLRegression"
+    },
+    {
+      "UId": "ca913451-6567-42ea-a53d-63b841c80e2b",
+      "Name": "MLScoring"
+    },
+    {
+      "UId": "8d4f0b39-6e71-4203-9ec9-a5f19ea75da2",
+      "Name": "MLTextSimilarity"
+    },
+    {
+      "UId": "7ecd2886-795a-4933-9ffb-5358f353a555",
+      "Name": "Mobile"
+    },
+    {
+      "UId": "1aae3320-3dcd-4847-a711-a794854269bc",
+      "Name": "MobileDesignerTools"
+    },
+    {
+      "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+      "Name": "NUI"
+    },
+    {
+      "UId": "9e46f14d-4cea-4d67-987a-e74ae0330c25",
+      "Name": "OAuth20"
+    },
+    {
+      "UId": "90f7bc4e-bfce-44f6-99ce-41d02274d4f5",
+      "Name": "OAuth20Integration"
+    },
+    {
+      "UId": "8d48ade0-350e-7694-49aa-2a913c356ce1",
+      "Name": "OldGoogleIntegration"
+    },
+    {
+      "UId": "f9a361ad-8965-4c55-922a-d13d1bac8c39",
+      "Name": "OmnichannelMessaging"
+    },
+    {
+      "UId": "d23f7020-5106-7e4c-cb76-76eb2b38e7e7",
+      "Name": "OpenIdAuth"
+    },
+    {
+      "UId": "a17aca5a-e9c2-4c5b-a385-df9a3c0837e6",
+      "Name": "OSM"
+    },
+    {
+      "UId": "fbf9dd14-92d2-4e35-b193-e69ced12ae44",
+      "Name": "PivotTable"
+    },
+    {
+      "UId": "3218e5ec-25c1-472b-9de0-1673e071a79f",
+      "Name": "Platform"
+    },
+    {
+      "UId": "36d65faf-3f18-1cae-d2cb-b71c4414d164",
+      "Name": "Playbook"
+    },
+    {
+      "UId": "6f46362b-0d60-47d7-b211-fc5e4117aecb",
+      "Name": "ProcessDesigner"
+    },
+    {
+      "UId": "5e8400f1-2850-4048-bcfe-d1ac195bbe9e",
+      "Name": "ProcessLibrary"
+    },
+    {
+      "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+      "Name": "ProductCore"
+    },
+    {
+      "UId": "05e3bd13-d61c-4610-af15-eb6e6173ef60",
+      "Name": "ProductCoreMessagePublishers"
+    },
+    {
+      "UId": "b8d3cee8-bfe1-4989-8461-886fff0dee74",
+      "Name": "RelationshipDesigner"
+    },
+    {
+      "UId": "eeed3091-51d9-472d-be26-eca02cd3a7d1",
+      "Name": "Reports"
+    },
+    {
+      "UId": "39d703cc-a16f-4e81-8304-304288ac685a",
+      "Name": "ServiceDesigner"
+    },
+    {
+      "UId": "7aba540c-a7dc-465e-8a22-54ef78fcb5a5",
+      "Name": "SocialMessagePublisher"
+    },
+    {
+      "UId": "dc36f898-47d7-4597-865d-0f1bcab7bf9c",
+      "Name": "SocialNetworkIntegration"
+    },
+    {
+      "UId": "82306a23-d5c6-420b-b81b-2d145f8e2f34",
+      "Name": "SSP"
+    },
+    {
+      "UId": "148ab29f-ee31-44cb-9d3d-883c69ca3d1e",
+      "Name": "SspKnowledgeBase"
+    },
+    {
+      "UId": "2a38dfee-ddf9-4e0f-9e97-47a4c6c42f29",
+      "Name": "SspWorkplace"
+    },
+    {
+      "UId": "a5ae219e-4519-4a0e-88b1-a172f834baa5",
+      "Name": "TaskMessagePublisher"
+    },
+    {
+      "UId": "3efa1d97-299e-a860-39e3-426b251b4548",
+      "Name": "TasksQueue"
+    },
+    {
+      "UId": "9310225d-1ff8-45f2-9f34-9faf094d635a",
+      "Name": "Timeline"
+    },
+    {
+      "UId": "55c9e8f9-cc01-538b-9878-9326da9e7078",
+      "Name": "TouchPoints"
+    },
+    {
+      "UId": "77e888d2-c4a4-45ce-a906-ac00adb364a2",
+      "Name": "Translation"
+    },
+    {
+      "UId": "8cefda2b-889f-4b69-bed1-f33bf7f6d00c",
+      "Name": "TwitterIntegration"
+    },
+    {
+      "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+      "Name": "UIv2"
+    },
+    {
+      "UId": "916b2f81-4cb4-41b6-92e1-a3ea6fb4e7f7",
+      "Name": "VisaNotification"
+    },
+    {
+      "UId": "6651f29c-3f6e-4519-a8f4-127deb7515e2",
+      "Name": "WebForm"
+    },
+    {
+      "UId": "00fddb09-8590-4099-bd2a-922074864dea",
+      "Name": "WebitelCollaborations"
+    },
+    {
+      "UId": "77bed8af-9708-4ab9-9a7d-dc6f243c3fe0",
+      "Name": "WebitelCore"
+    },
+    {
+      "UId": "c3748e81-246e-4293-85a1-d88d3ab9ff4d",
+      "Name": "Wizards"
+    },
+    {
+      "UId": "b349edb3-5bd4-47cf-8269-e9d4145aa896",
+      "Name": "WordReporting"
+    },
+    {
+      "UId": "f665ef60-4483-4af1-acec-1b4a85d79e1c",
+      "Name": "Workplace"
+    }
+  ]
+}

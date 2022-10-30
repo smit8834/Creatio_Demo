@@ -1,0 +1,16 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csprojAssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.pdb
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.dll
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.pdb
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csprojAssemblyReference.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfoInputs.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfo.cs
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.CoreCompileInputs.cache
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.dll
+C:\Creatio Demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.pdb
